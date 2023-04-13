@@ -22,7 +22,7 @@ I'm Kenan, I work on development with front-end technologies. I share my project
     <img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
     <img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img align="left" height="40" width="40" src="https://unpkg.com/simple-icons@v8/icons/nextdotjs.svg" />
+    <img align="left" height="40" width="40"  src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" />
     <img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </p>
 
